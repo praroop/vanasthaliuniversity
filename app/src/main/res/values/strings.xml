@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">EkdLeaveApplication</string>
+    <string name="cutprice"><strike>Rs. 12,999</strike></string>
+    <string name="cutprice1"><strike>Rs. 1,999</strike></string>
+
+    <string name="address"><font fgcolor="#163250">Address: </font>
+        <font fgcolor="#9fa9b1"> B-83, Lajpat Nagar-II,\nWalking From Metro Station of,\nLajpat Nagar, New Delhi, Delhi</font></string>
+
+
+    <string name="contact"><font fgcolor="#163250">Contact Person : </font>
+        <font fgcolor="#9fa9b1">Ritika</font></string>
+    <string name="_30_min">30 min</string>
+    <string name="service_session_4">Service Session: 4</string>
+    <string name="rs_9_999">Rs.9,999</string>
+    <string name="_20_off">20%off</string>
+    <string name="booking_on">Booking on:</string>
+    <string name="_12_5_2019_10_00_am">12-5-2019 . 10:00 am</string>
+    <string name="contact_info">Contact Info</string>
+    <string name="name">Name</string>
+    <string name="mobile">Mobile</string>
+    <string name="email">Email</string>
+    <string name="remarks">Remarks</string>
+    <string name="submit">Submit</string>
+    <string name="home">Home</string>
+    <string name="services">Services</string>
+    <string name="products">Products</string>
+    <string name="braches">Braches</string>
+    <string name="profile">Profile</string>
+    <string name="our_services">Our Services</string>
+    <string name="our_products">Our Products</string>
+    <string name="create_an_account">Create an Account</string>
+    <string name="log_in">Log In</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="older">Older</string>
+    <string name="eq_evoa_sunscreen">EQ evoa Sunscreen</string>
+    <string name="gallery">Gallery</string>
+    <string name="description">Description</string>
+    <string name="laser_hair_removal_is_the_process_of_hair_removal_by_means_of_exposure_to_pulses_of_laser_light_that_destroy_the_hair_follicle_it_had_been_performed_experimentally_for_about_twenty_years_before_becoming_commercially_available_in">Laser hair removal is the process of hair removal by means of exposure to pulses of laser light that destroy the hair follicle. It had been performed experimentally for about twenty years before becoming commercially available in.</string>
+    <string name="call_back">Call Back</string>
+    <string name="book_now">Book Now</string>
+    <string name="hi_john_doe">Hi, John Doe</string>
+    <string name="erik_gmail_com">Erik@gmail.com</string>
+    <string name="edit">Edit</string>
+    <string name="my_activity">My Activity</string>
+    <string name="_3">3</string>
+    <string name="manage_address">Manage Address</string>
+    <string name="request_call_back">Request Call Back</string>
+    <string name="change_password">Change Password</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="share_with_friend">Share With Friend</string>
+    <string name="terms_amp_conditions"><![CDATA[Terms & Conditions]]></string>
+    <string name="sign_out">Sign Out</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_time">Select Time</string>
+    <string name="morning">Morning</string>
+    <string name="afternoon">Afternoon</string>
+    <string name="evening">Evening</string>
+    <string name="next">Next</string>
+    <string name="what_is_loreum_ipsum">What is Loreum ipsum?</string>
+    <string name="is_simply_dummy_text_of_the_nprinting_and_typesetting_indus_try_nlorem_ipsum">is simply dummy text of the printing and typesetting indus try. Lorem Ipsum</string>
+    <string name="vadodara">Vadodara</string>
+    <string name="now">Now</string>
+    <string name="notification">Notification</string>
+    <string name="view_all">View All</string>
+    <string name="cosmo_tree_rajori">Cosmo Tree Rajori</string>
+    <string name="call">Call</string>
+    <string name="go_center">Go Center</string>
+    <string name="_15">15</string>
+    <string name="mon">Mon</string>
+    <string name="_09_00">09:00</string>
+    <string name="am">am</string>
+    <string name="_23_march_2019">23 March, 2019</string>
+    <string name="time">Time</string>
+    <string name="_11_00_am">11:00 AM</string>
+    <string name="_13_11_2019_4_00_pm">13/11/2019 4:00 pm</string>
+    <string name="rs_999">Rs.999</string>
+    <string name="_50_off">50%off</string>
+    <string name="laser_hair_removal">Laser Hair Removal</string>
+</resources>

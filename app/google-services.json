@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "753815982677",
+    "firebase_url": "https://meeting-41386.firebaseio.com",
+    "project_id": "meeting-41386",
+    "storage_bucket": "meeting-41386.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753815982677:android:7712a9a6ffea08ca",
+        "android_client_info": {
+          "package_name": "com.ekdleaveapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753815982677-lp09lg64uvvbp3htsmlgik634ngetsc4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ekdleaveapplication",
+            "certificate_hash": "1c12db8accab5afc896f24a9bb1e7311f52107d5"
+          }
+        },
+        {
+          "client_id": "753815982677-2tpmkhlmjg1jl51m52dm2mjrcnsahpb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-0YVPQrXNZqkZ5tnl6HECvL7ekyVNWtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753815982677-2tpmkhlmjg1jl51m52dm2mjrcnsahpb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
